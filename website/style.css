@@ -772,6 +772,12 @@
 }
 
 
+
+
+
+
+
+
   /* Default Button Styles */
 .carousel-item--video .carousel-item__btn {
   position: absolute;
@@ -911,28 +917,28 @@
 }
   
   
-     /* 1650px */
+     /*     1650px (LAPTOP SIZE)    */
 @media (max-width: 1650px) {
     .carousel-item--video .carousel-item__image {
         top: calc(23% + 4vw); /* Slightly smaller adjustment */
     }
     .carousel-item--video .carousel-item__title {
-        top: calc(30% + 6vw); /* Slightly smaller adjustment */
-        font-size: 1.6vw; /* Adjust font size */
+        top: calc(30% + 4.5vw); /* Slightly smaller adjustment */
+        font-size: 1.4vw; /* Adjust font size */
     }
     .carousel-item--video .carousel-item__description-top {
-        top: calc(32% + 6vw); /* Slightly smaller adjustment */
-        font-size: 1.3vw; /* Adjust font size */
+        top: calc(32% + 4.5vw); /* Slightly smaller adjustment */
+        font-size: 1.2vw; /* Adjust font size */
         width: 85vw; /* Adjust width */
     }
     .carousel-item--video .carousel-item__description {
-        top: calc(36% + 7.5vw); /* Slightly smaller adjustment */
-        font-size: 1.3vw; /* Adjust font size */
+        top: calc(36% + 6.5vw); /* Slightly smaller adjustment */
+        font-size: 1.1vw; /* Adjust font size */
         line-height: 2vw; /* Line height based on viewport width */
         width: 68vw; /* Adjust width */
     }
    .carousel-item--video .carousel-item__btn {
-    top: calc(24% + 2vw + 27vw); /* Adjusted position for medium screens */
+    top: calc(24% + 2vw + 24vw); /* Adjusted position for medium screens */
     padding: 0.7vw 2vw; /* Adjust padding if needed */
     font-size: 0.8vw; /* Adjust font size if needed */
     width: 18vw; /* Adjust width if needed */
@@ -975,22 +981,22 @@
         top: calc(28% + 0.4vw); /* Adjust for smaller screens */
     }
     .carousel-item--video .carousel-item__title {
-        top: calc(37% + 0.1vw); /* Adjust the text position similarly */
-        font-size: 2vw; /* Adjust font size */
+        top: calc(37% + 0.5vw); /* Adjust the text position similarly */
+        font-size: 1.4vw; /* Adjust font size */
     }
     .carousel-item--video .carousel-item__description-top {
-        top: calc(38% + 1.3vw); /* Adjust for smaller screens */
+        top: calc(38% + 1vw); /* Adjust for smaller screens */
         font-size: 1.2vw; /* Adjust font size */
         width: 90vw; /* Adjust width */
     }
     .carousel-item--video .carousel-item__description {
-        top: calc(45% + 3vw); /* Adjust the text position similarly */
+        top: calc(45% + 1.5vw); /* Adjust the text position similarly */
         font-size: 1.2vw; /* Adjust font size */
         line-height: 2vw; /* Line height based on viewport width */
         width: 65vw; /* Adjust width */
     }
     .carousel-item--video .carousel-item__btn {
-    top: calc(30% + 2vw + 33vw); /* Adjusted position for medium screens */
+    top: calc(30% + 2vw + 21vw); /* Adjusted position for medium screens */
     padding: 0.7vw 2vw; /* Adjust padding if needed */
     font-size: 0.8vw; /* Adjust font size if needed */
     width: 20vw; /* Adjust width if needed */
@@ -1003,22 +1009,22 @@
         top: calc(26% + 1.3vw); /* Slightly smaller adjustment */
     }
     .carousel-item--video .carousel-item__title {
-        top: calc(33% + 2vw); /* Slightly smaller adjustment */
-        font-size: 2vw; /* Adjust font size */
+        top: calc(33% + 3vw); /* Slightly smaller adjustment */
+        font-size: 1.4vw; /* Adjust font size */
     }
     .carousel-item--video .carousel-item__description-top {
-        top: calc(36% + 2.2vw); /* Slightly smaller adjustment */
-        font-size: 1.8vw; /* Adjust font size */
+        top: calc(36% + 3vw); /* Slightly smaller adjustment */
+        font-size: 1.3vw; /* Adjust font size */
         width: 90vw; /* Adjust width */
     }
     .carousel-item--video .carousel-item__description {
-        top: calc(42% + 3.8vw); /* Slightly smaller adjustment */
-        font-size: 2vw; /* Adjust font size */
+        top: calc(42% + 3.5vw); /* Slightly smaller adjustment */
+        font-size: 1.2vw; /* Adjust font size */
         line-height: 1.8vw; /* Line height based on viewport width */
         width: 75vw; /* Adjust width */
     }
    .carousel-item--video .carousel-item__btn {
-    top: calc(30% + 2vw + 32vw); /* Adjusted position for medium screens */
+    top: calc(30% + 2vw + 20vw); /* Adjusted position for medium screens */
     padding: 0.7vw 2vw; /* Adjust padding if needed */
     font-size: 1vw; /* Adjust font size if needed */
     width: 21vw; /* Adjust width if needed */
@@ -1034,22 +1040,22 @@
         top: calc(35% + 1.2vw); /* Slightly smaller adjustment */
     }
     .carousel-item--video .carousel-item__title {
-        top: calc(36% + 1.8vw); /* Slightly smaller adjustment */
+        top: calc(36% + 3vw); /* Slightly smaller adjustment */
         font-size: 1.8vw; /* Adjust font size */
     }
     .carousel-item--video .carousel-item__description-top {
-        top: calc(35% + 2.8vw); /* Slightly smaller adjustment */
+        top: calc(35% + 4vw); /* Slightly smaller adjustment */
         font-size: 1.2vw; /* Adjust font size */
         width: 85vw; /* Adjust width */
     }
     .carousel-item--video .carousel-item__description {
-        top: calc(39% + 3.8vw); /* Slightly smaller adjustment */
+        top: calc(39% + 5vw); /* Slightly smaller adjustment */
         font-size: 1.2vw; /* Adjust font size */
         line-height: 2vw; /* Line height based on viewport width */
         width: 75vw; /* Adjust width */
     }
    .carousel-item--video .carousel-item__btn {
-    top: calc(10% + 2vw + 34vw); /* Adjusted position for medium screens */
+    top: calc(10% + 2vw + 32vw); /* Adjusted position for medium screens */
     padding: 0.7vw 2vw; /* Adjust padding if needed */
     font-size: 1.2vw; /* Adjust font size if needed */
     width: 21vw; /* Adjust width if needed */
